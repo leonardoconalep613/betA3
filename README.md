@@ -36,7 +36,7 @@
 <body>
 
   <!-- Imagen principal centrada -->
-  <img src="Logo de nosotro.jpeg" alt="LOGO" width="450" height="450">
+  <img src=HONGOS/Logo de nosotro.jpeg alt="LOGO" width="450" height="450">
 
   <!-- Botón para iniciar aventura -->
   <a href="pagina conectada.html" class="boton-aventura">Explora el fascinante reino de los hongos: naturaleza, ciencia y misterio bajo tus pies.</a>
